@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# front41.000
+# front41.exe
+ExcelData.txt
+/2024*
+AutoFrontier*.exe
+*.zip
